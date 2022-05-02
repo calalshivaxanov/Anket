@@ -1,0 +1,29 @@
+.header
+{
+	background: black;
+	color: white;
+	padding: 10px;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+.questions--item
+{
+	border: 1px solid #ddd;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+.list
+{
+	padding: 5px;
+	border-bottom: 1px solid #ddd;
+	background: #1b6d85;
+	color: white;
+}
+
+.list--answers
+{
+	padding: 5px;
+	border-bottom: 1px solid #ddd;
+}
